@@ -1,2 +1,0 @@
--- Active: 1794186442060@@127.0.0.1@3306@uprak
-CREATE DATABASE uprak;

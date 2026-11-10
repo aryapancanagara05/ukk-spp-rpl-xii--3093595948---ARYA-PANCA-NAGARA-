@@ -12,7 +12,8 @@ return new class extends Migration
     public function up(): void
     {
         Schema::create('spps', function (Blueprint $table) {
-            $table->id();
+            $table->id('id_spp')->INT;
+            
             $table->timestamps();
         });
     }

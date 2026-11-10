@@ -12,9 +12,12 @@ return new class extends Migration
     public function up(): void
     {
         Schema::create('spps', function (Blueprint $table) {
-            $table->id('id_spp')->INT;
-            
-            $table->timestamps();
+            $table->int('id_spp')->INT;
+            $table->int('tahun');
+            $table->int('nominal');
+            $table->string('keterangan');
+            $table->timestamp('created_at');
+            $table->timestamp('updated_at');
         });
     }
 

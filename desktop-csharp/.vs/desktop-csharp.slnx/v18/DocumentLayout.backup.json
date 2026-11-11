@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "D:\\ukk-spp-rpl-xii-[3093595948]-[ARYA-PANCA-NAGARA]\\desktop-csharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{78F6FBDE-7447-49F5-A9C9-8113FDD5F6E7}|desktop-csharp.csproj|d:\\ukk-spp-rpl-xii-[3093595948]-[arya-panca-nagara]\\desktop-csharp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{78F6FBDE-7447-49F5-A9C9-8113FDD5F6E7}|desktop-csharp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{78F6FBDE-7447-49F5-A9C9-8113FDD5F6E7}|desktop-csharp.csproj|d:\\ukk-spp-rpl-xii-[3093595948]-[arya-panca-nagara]\\desktop-csharp\\views\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78F6FBDE-7447-49F5-A9C9-8113FDD5F6E7}|desktop-csharp.csproj|solutionrelative:views\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78F6FBDE-7447-49F5-A9C9-8113FDD5F6E7}|desktop-csharp.csproj|d:\\ukk-spp-rpl-xii-[3093595948]-[arya-panca-nagara]\\desktop-csharp\\views\\formregisterpetugas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78F6FBDE-7447-49F5-A9C9-8113FDD5F6E7}|desktop-csharp.csproj|solutionrelative:views\\formregisterpetugas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78F6FBDE-7447-49F5-A9C9-8113FDD5F6E7}|desktop-csharp.csproj|d:\\ukk-spp-rpl-xii-[3093595948]-[arya-panca-nagara]\\desktop-csharp\\config\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78F6FBDE-7447-49F5-A9C9-8113FDD5F6E7}|desktop-csharp.csproj|solutionrelative:config\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78F6FBDE-7447-49F5-A9C9-8113FDD5F6E7}|desktop-csharp.csproj|d:\\ukk-spp-rpl-xii-[3093595948]-[arya-panca-nagara]\\desktop-csharp\\views\\formregisterpetugas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78F6FBDE-7447-49F5-A9C9-8113FDD5F6E7}|desktop-csharp.csproj|solutionrelative:views\\formregisterpetugas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78F6FBDE-7447-49F5-A9C9-8113FDD5F6E7}|desktop-csharp.csproj|d:\\ukk-spp-rpl-xii-[3093595948]-[arya-panca-nagara]\\desktop-csharp\\models\\sessionuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78F6FBDE-7447-49F5-A9C9-8113FDD5F6E7}|desktop-csharp.csproj|solutionrelative:models\\sessionuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78F6FBDE-7447-49F5-A9C9-8113FDD5F6E7}|desktop-csharp.csproj|d:\\ukk-spp-rpl-xii-[3093595948]-[arya-panca-nagara]\\desktop-csharp\\views\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78F6FBDE-7447-49F5-A9C9-8113FDD5F6E7}|desktop-csharp.csproj|solutionrelative:views\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,18 +34,82 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\ukk-spp-rpl-xii-[3093595948]-[ARYA-PANCA-NAGARA]\\desktop-csharp\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\ukk-spp-rpl-xii-[3093595948]-[ARYA-PANCA-NAGARA]\\desktop-csharp\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
+              "DocumentIndex": 4,
+              "Title": "SessionUser.cs",
+              "DocumentMoniker": "D:\\ukk-spp-rpl-xii-[3093595948]-[ARYA-PANCA-NAGARA]\\desktop-csharp\\Models\\SessionUser.cs",
+              "RelativeDocumentMoniker": "Models\\SessionUser.cs",
+              "ToolTip": "D:\\ukk-spp-rpl-xii-[3093595948]-[ARYA-PANCA-NAGARA]\\desktop-csharp\\Models\\SessionUser.cs",
+              "RelativeToolTip": "Models\\SessionUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-09T01:42:01.835Z",
+              "WhenOpened": "2026-11-11T06:22:20.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormRegisterPetugas.cs",
+              "DocumentMoniker": "D:\\ukk-spp-rpl-xii-[3093595948]-[ARYA-PANCA-NAGARA]\\desktop-csharp\\Views\\FormRegisterPetugas.cs",
+              "RelativeDocumentMoniker": "Views\\FormRegisterPetugas.cs",
+              "ToolTip": "D:\\ukk-spp-rpl-xii-[3093595948]-[ARYA-PANCA-NAGARA]\\desktop-csharp\\Views\\FormRegisterPetugas.cs",
+              "RelativeToolTip": "Views\\FormRegisterPetugas.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T06:20:40.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormRegisterPetugas.cs [Design]",
+              "DocumentMoniker": "D:\\ukk-spp-rpl-xii-[3093595948]-[ARYA-PANCA-NAGARA]\\desktop-csharp\\Views\\FormRegisterPetugas.cs",
+              "RelativeDocumentMoniker": "Views\\FormRegisterPetugas.cs",
+              "ToolTip": "D:\\ukk-spp-rpl-xii-[3093595948]-[ARYA-PANCA-NAGARA]\\desktop-csharp\\Views\\FormRegisterPetugas.cs [Design]",
+              "RelativeToolTip": "Views\\FormRegisterPetugas.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T06:19:46.126Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Koneksi.cs",
+              "DocumentMoniker": "D:\\ukk-spp-rpl-xii-[3093595948]-[ARYA-PANCA-NAGARA]\\desktop-csharp\\Config\\Koneksi.cs",
+              "RelativeDocumentMoniker": "Config\\Koneksi.cs",
+              "ToolTip": "D:\\ukk-spp-rpl-xii-[3093595948]-[ARYA-PANCA-NAGARA]\\desktop-csharp\\Config\\Koneksi.cs",
+              "RelativeToolTip": "Config\\Koneksi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T06:10:55.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "D:\\ukk-spp-rpl-xii-[3093595948]-[ARYA-PANCA-NAGARA]\\desktop-csharp\\Views\\FormLogin.cs",
+              "RelativeDocumentMoniker": "Views\\FormLogin.cs",
+              "ToolTip": "D:\\ukk-spp-rpl-xii-[3093595948]-[ARYA-PANCA-NAGARA]\\desktop-csharp\\Views\\FormLogin.cs",
+              "RelativeToolTip": "Views\\FormLogin.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAUwDEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T06:08:43.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormLogin.cs [Design]",
+              "DocumentMoniker": "D:\\ukk-spp-rpl-xii-[3093595948]-[ARYA-PANCA-NAGARA]\\desktop-csharp\\Views\\FormLogin.cs",
+              "RelativeDocumentMoniker": "Views\\FormLogin.cs",
+              "ToolTip": "D:\\ukk-spp-rpl-xii-[3093595948]-[ARYA-PANCA-NAGARA]\\desktop-csharp\\Views\\FormLogin.cs [Design]",
+              "RelativeToolTip": "Views\\FormLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T00:22:33.237Z",
               "EditorCaption": " [Design]"
             }
           ]
